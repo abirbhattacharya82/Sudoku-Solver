@@ -4,3 +4,5 @@ The objective is to fill a 9×9 grid with digits so that each column, each row, 
 ## Problem Solved in this Repository:
 The Puzzel setter provides a partially solved Sudoku Puzzle, and the Program solves the Sudoku Puzzle.
 ## Demo:
+Input | Output
+------|--------
