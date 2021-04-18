@@ -6,3 +6,4 @@ The Puzzel setter provides a partially solved Sudoku Puzzle, and the Program sol
 ## Demo:
 Input | Output
 ------|--------
+![1](https://user-images.githubusercontent.com/70687014/115137860-2000a480-a046-11eb-82b0-217b02cb9171.png) | ![2](https://user-images.githubusercontent.com/70687014/115137886-46264480-a046-11eb-9e58-635f8ce71b8b.png)
