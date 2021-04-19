@@ -1,4 +1,7 @@
 # 9x9 Sudoku Solver 🔥
+![](https://img.shields.io/twitter/follow/IamAbir82?color=Black&label=Abir%20Bhattacharya&logo=Twitter&logoColor=Blue&style=flat-square)
+![](https://img.shields.io/github/forks/abirbhattacharya82/Sudoku-Solver?color=green&label=Forks&logo=github&logoColor=white&style=plastic)
+![](https://img.shields.io/github/stars/abirbhattacharya82/Sudoku-Solver?color=green&label=Stars&logo=github&logoColor=white&style=plastic)
 ## About Sudoku:
 ### The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid (also called "boxes", "blocks", or "regions") contains all of the digits from 1 to 9. The puzzle setter provides a partially completed grid, which for a well-posed puzzle has a single solution. 
 ## Problem Solved in this Repository:
